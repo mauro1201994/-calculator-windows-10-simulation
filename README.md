@@ -1,3 +1,5 @@
+<img width="385" height="314" alt="image" src="https://github.com/user-attachments/assets/bb700021-8a82-42cb-81af-29bf392caf42" />
+
 🧰 Tecnologias utilizadas
 
 HTML5 – Estrutura da interface
